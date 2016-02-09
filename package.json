@@ -1,0 +1,29 @@
+{
+  "name": "react-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "muicss": "^0.4.4",
+    "script-loader": "^0.6.1",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "history": "^1.17.0",
+    "react": "^0.14.7",
+    "react-bootstrap": "^0.28.2",
+    "react-dom": "^0.14.7",
+    "react-joyride": "^1.1.1",
+    "react-map-gl": "^0.6.4",
+    "react-router": "^1.0.3"
+  }
+}
