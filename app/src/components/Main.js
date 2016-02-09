@@ -44,6 +44,7 @@ class Main extends React.Component {
   render(){
     return (
       <div>
+        <LoginModal/>
         <AppHeader/>
         <GLMap />
       </div>
@@ -51,7 +52,6 @@ class Main extends React.Component {
   }
 }
 
-      //  <LoginModal/>
     //<Dashboard/>
 
         // render(){
